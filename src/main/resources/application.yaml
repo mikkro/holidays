@@ -1,0 +1,4 @@
+holidays:
+  api:
+    key: 8ca6eb09-6524-44c4-bc94-3bd54d2c913d
+    url: https://holidayapi.com/v1/holidays?pretty&key={key}&country={country}&year={year}
