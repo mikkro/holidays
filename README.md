@@ -1,6 +1,8 @@
 # Holidays Api
 Author: Mikołaj Król
 
+Api is limited to last year's historical data only.
+
 ## Requirements
 - Java 11
 - Maven 3.2.5
