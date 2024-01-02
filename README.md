@@ -1,5 +1,5 @@
 # Holidays Api
-Author: Mikołaj Król
+Author: Mikołaj Król 
 
 Api is limited to last year's historical data only.
 
